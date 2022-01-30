@@ -1,3 +1,3 @@
 # Natural-Language-Processing
 
-NPL Homework
+NLP Homework
